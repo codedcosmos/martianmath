@@ -8,6 +8,8 @@ mod vector2f;
 mod vector3f;
 mod vector4f;
 
+mod matrix4f;
+
 #[cfg(test)]
 mod tests {
     use crate::vector2i::Vector2i;
